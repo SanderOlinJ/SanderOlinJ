@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanderOlinJ"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanderOlinJ&show_icons=true&theme=radical&layout=compact"/>
+
 
 <!--
 **SanderOlinJ/SanderOlinJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
