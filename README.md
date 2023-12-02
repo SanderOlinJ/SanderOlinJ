@@ -1,5 +1,10 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanderOlinJ&show_icons=true&theme=radical&layout=compact"/>
+## Languages
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanderOlinJ&show_icons=true&theme=radical&layout=compact&langs_count=8"/>
+
+## Contact
+
+<a href="https://www.linkedin.com/in/sander-olin-johansen/" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-onvhHUdW1Us%2FYI52e9j4eKI%2FAAAAAAAAE4c%2F6s9wzOpIDYcAo4YmTX1Qg51OlwMFmilFACLcBGAsYHQ%2Fs1600%2FLogo%252BLinkedin.png&f=1&nofb=1&ipt=2f2ab2aab222f462f8f2b3b5826cc1c0676b3d4ccc1a4790fbff815ba4b87c8a&ipo=images" alt="Linked-in Logo" width="95" height="75"/></a>
 
 <!--
 **SanderOlinJ/SanderOlinJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
