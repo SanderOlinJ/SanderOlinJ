@@ -1,6 +1,12 @@
-## Languages
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanderOlinJ&show_icons=true&theme=radical&layout=compact&langs_count=8"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanderOlinJ&theme=gruvbox&hide_border=false)<br/>
+
+## Languages
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanderOlinJ&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" width="300" height="300"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanderOlinJ&theme=gruvbox&hide_border=true&exclude=Jupyter%20Notebook" width="300" height="300">
+</div>
 
 ## Contact
 
